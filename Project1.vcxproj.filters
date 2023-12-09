@@ -13,10 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\First CPP Project">
+      <UniqueIdentifier>{10015b16-1fe1-4a10-aabd-c47aa3b4df1b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MainFile.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\First CPP Project</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
