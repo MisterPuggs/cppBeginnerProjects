@@ -4,4 +4,13 @@ project(Project1)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Project1
-        MainFile.cpp)
+        src/MainFile.cpp
+        "src/Circle Volume Calculator.cpp"
+        src/CVC.h
+        "src/Averages Calc.cpp"
+        src/AC.h
+        "src/Character Classes.cpp"
+        src/CC.h
+        src/Include.h
+        "src/File Management.cpp"
+        src/FM.h)
